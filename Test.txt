@@ -2,4 +2,12 @@ We are tryingto see how github functions,
 Achile would try his own after dis!!!
 goodluck Bro
 
+<<<<<<< HEAD
+I have seen your work. Its quite nice.
+Great working with you.
+=======
 try again bro
+>>>>>>> 8a4c69579e4add36a1129ef4dc55bf44023d72b7
+Guy, when I pulled from the master this morning 'Merge conflict in 
+Test.txt was displayed on my console. Funny enough the additions I made 
+yesterday still came wit the pulled file.
