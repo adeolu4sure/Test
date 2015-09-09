@@ -11,3 +11,5 @@ try again bro
 Guy, when I pulled from the master this morning 'Merge conflict in 
 Test.txt was displayed on my console. Funny enough the additions I made 
 yesterday still came wit the pulled file.
+ 
+Confirmed everything at andela today. About doing math test.
